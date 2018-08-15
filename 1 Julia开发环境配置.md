@@ -18,3 +18,6 @@ Juno虽然是官方的`IDE`，但安装步骤稍微多一点，不仅安装插�
 4. 重启`Visual Studio Code`。
 
 至此，所有的配置工作就已经完成了，接下来就是试一下刚刚配置的开发环境了。
+
+`ctrl + shift + p`，输入`julia start REPL`即可
+
