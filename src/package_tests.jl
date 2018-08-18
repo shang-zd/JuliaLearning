@@ -49,11 +49,11 @@ TravelingSalesmanHeuristics.jl: a heuristic algorithm for solving the Traveling 
 
 
 
-#=
+
  Pkg.add("Plots")
  Pkg.add("Dates")
  Pkg.add("Images")
-=#
+
 
  Pkg.update()
  Pkg.status()
